@@ -1,0 +1,57 @@
+what is gradle==Gradle is a flexible build automation tool used for Java and other applications.
+what is exception handling==Exception handling is a mechanism to handle runtime errors using try, catch, finally, and throw.
+what is encapsulation==Encapsulation is the process of wrapping data and methods into a single unit and restricting direct access.
+what is serialization==Serialization is the process of converting an object into a byte stream.
+what is garbage collection==Garbage Collection is the automatic memory management process that removes unused objects.
+what is hashset==HashSet is a Set implementation that stores unique elements using a hash table.
+what is inheritance==Inheritance is an OOP concept that allows one class to acquire properties and methods from another class.
+who is hasth==He is a person with Good,Excellent,Kind and Good Hearted Person from Bantwal.
+what is hibernate==Hibernate is an ORM framework that maps Java objects to database tables.
+what is design pattern==A design pattern is a reusable solution to commonly occurring software design problems.
+what is polymorphism==Polymorphism is the ability of an object to take multiple forms and perform different behaviors.
+what is rest api==REST API is an architectural style used for communication between client and server over HTTP.
+what is c++==C++ is a powerful object-oriented programming language used for system software, game development, and applications.
+what is school==A school is an educational institution where students learn academic and life skills.
+what is hashmap==HashMap is a Map implementation that stores key-value pairs using hashing.
+what is method overriding==Method overriding allows a subclass to provide a specific implementation of a method from its parent class.
+what is jdk==JDK (Java Development Kit) is a software package that provides tools required to develop and run Java applications.
+what is string==String is a predefined Java class used to represent a sequence of characters.
+what is ai==Artificial Intelligence (AI) is the simulation of human intelligence by machines and computer systems.
+what is abstraction==Abstraction is the process of hiding implementation details and showing only essential features.
+what is synchronization==Synchronization is a technique used to control access to shared resources in multithreaded applications.
+what is map==Map is a collection that stores data in key-value pairs.
+what is thread==A thread is the smallest unit of execution within a process.
+what is dependency injection==Dependency Injection is a design pattern that provides required objects to a class instead of creating them internally.
+what is set==Set is a collection that does not allow duplicate elements.
+what is spring boot==Spring Boot simplifies Spring application development through auto-configuration and embedded servers.
+what is array==An array is a collection of elements of the same data type stored in contiguous memory locations.
+what is arraylist==ArrayList is a resizable array implementation of the List interface.
+what is singleton pattern==Singleton Pattern ensures that only one instance of a class exists throughout the application.
+what is database==A database is an organized collection of data that can be stored, managed, and accessed efficiently.
+what is computer==A computer is an electronic device that processes data and performs tasks according to instructions.
+what is python==Python is a high-level, easy-to-learn programming language widely used for web development, data science, and automation.
+what is class==A class is a blueprint or template used to create objects in Java.
+what is multithreading==Multithreading is the process of executing multiple threads concurrently.
+what is jdbc==JDBC (Java Database Connectivity) is an API used to connect Java applications with databases.
+what is abstract class==An abstract class is a class that cannot be instantiated and may contain abstract and concrete methods.
+what is teacher==A teacher is a person who educates, guides, and inspires students.
+what is maven==Maven is a build automation and dependency management tool for Java projects.
+who is joker==joker is a person who makes us laugh.
+what is constructor==A constructor is a special method used to initialize objects when they are created.
+what is stream api==Stream API is used to process collections of data in a functional and efficient manner.
+what is list==List is an ordered collection that allows duplicate elements.
+what is java==Java is an advanced, high-level, object-oriented programming language used for building platform-independent applications.
+what is linkedlist==LinkedList is a doubly linked list implementation of the List interface.
+what is lambda expression==A lambda expression is a concise way to represent anonymous functions in Java.
+what is interface==An interface is a collection of abstract methods that a class can implement.
+what is exception==An exception is an event that interrupts the normal flow of program execution.
+what is spring==Spring is a popular Java framework used for building enterprise applications.
+what is object==An object is an instance of a class that contains data and behavior.
+what is collection==The Collection Framework provides classes and interfaces for storing and manipulating groups of objects.
+what is method overloading==Method overloading allows multiple methods with the same name but different parameters.
+what is microservice==A microservice is a small, independent service that performs a specific business function.
+what is functional interface==A functional interface contains exactly one abstract method.
+what is jvm==JVM (Java Virtual Machine) is an engine that executes Java bytecode and enables platform independence.
+what is jre==JRE (Java Runtime Environment) provides the libraries and JVM required to run Java programs.
+what is deserialization==Deserialization is the process of converting a byte stream back into an object.
+what is internet==The Internet is a global network that connects millions of computers and devices worldwide.
