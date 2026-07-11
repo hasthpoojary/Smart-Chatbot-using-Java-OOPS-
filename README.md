@@ -71,9 +71,9 @@ Answer: Java is a programming language.
 
 * Java.
 * OOP (Object-Oriented Programming).
-* HashMap
-* File Handling
-* Collections Framework
+* HashMap.
+* File Handling.
+* Collections Framework.
 
 ## Future Improvements
 
