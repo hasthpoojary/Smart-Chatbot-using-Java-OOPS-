@@ -6,12 +6,12 @@ The project uses a HashMap to store knowledge during execution and a text file (
 
 ## Features
 
-* Teach the chatbot new information
-* Ask questions about learned topics
-* Save knowledge automatically
-* Load saved knowledge when the program starts
-* View all stored knowledge
-* Simple menu-driven interface
+* Teach the chatbot new information.
+* Ask questions about learned topics.
+* Save knowledge automatically.
+* Load saved knowledge when the program starts.
+* View all stored knowledge.
+* Simple menu-driven interface.
 
 ## Files
 
