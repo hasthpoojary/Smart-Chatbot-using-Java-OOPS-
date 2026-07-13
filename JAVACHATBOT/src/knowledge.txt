@@ -55,3 +55,22 @@ what is jvm==JVM (Java Virtual Machine) is an engine that executes Java bytecode
 what is jre==JRE (Java Runtime Environment) provides the libraries and JVM required to run Java programs.
 what is deserialization==Deserialization is the process of converting a byte stream back into an object.
 what is internet==The Internet is a global network that connects millions of computers and devices worldwide.
+what is interface==An interface is a blueprint that defines a set of abstract methods that implementing classes must provide.
+
+what is encapsulation==Encapsulation is the process of wrapping data and methods into a single unit and restricting direct access to the data.
+
+what is inheritance==Inheritance is an object-oriented programming concept that allows one class to acquire the properties and methods of another class.
+
+what is polymorphism==Polymorphism is the ability of an object to take many forms, allowing the same method to behave differently based on the object.
+
+what is exception handling==Exception handling is the mechanism used to detect, handle, and recover from runtime errors in a program.
+
+what is hashmap==HashMap is a collection class that stores data in key-value pairs and allows fast retrieval of values.
+
+what is arraylist==ArrayList is a resizable array implementation of the List interface that allows duplicate elements.
+
+what is spring boot==Spring Boot is a Java framework used to build standalone, production-ready applications with minimal configuration.
+
+what is sql==SQL (Structured Query Language) is a language used to store, retrieve, update, and manage data in relational databases.
+
+what is api==An API (Application Programming Interface) is a set of rules that allows different software applications to communicate with each other.
