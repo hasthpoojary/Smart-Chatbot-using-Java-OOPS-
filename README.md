@@ -1,10 +1,10 @@
-# SimpleBot
+# SimpleBot : 
 
 A simple chatbot built using Java that can learn new information from the user and remember it even after the program is closed.
 
 The project uses a HashMap to store knowledge during execution and a text file (`knowledge.txt`) to save the data permanently.
 
-## Features
+## Features:-
 
 * Teach the chatbot new information.
 * Ask questions about learned topics.
@@ -13,7 +13,7 @@ The project uses a HashMap to store knowledge during execution and a text file (
 * View all stored knowledge.
 * Simple menu-driven interface.
 
-## Files
+## Files:-
 
 ### Main.java
 
@@ -29,7 +29,7 @@ Stores all learned information in the format:
 
 topic==information
 
-## How to Run
+## How to Run :-
 
 Compile the files:
 
@@ -53,7 +53,7 @@ java Main
 4. Exit
 ```
 
-Teaching the bot:
+Teaching the bot:-
 
 ```text
 What's on your Mind Now!!!: what is java
