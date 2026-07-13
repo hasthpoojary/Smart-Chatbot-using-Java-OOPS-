@@ -67,7 +67,7 @@ Your question: what is java
 Answer: Java is a programming language.
 ```
 
-## Concepts Used
+## Concepts Used.
 
 * Java.
 * OOP (Object-Oriented Programming).
@@ -75,15 +75,15 @@ Answer: Java is a programming language.
 * File Handling.
 * Collections Framework.
 
-## Future Improvements
+## Future Improvements.
 
-* Better question matching
-* GUI version using Java Swing
-* Database storage
-* AI/NLP support
+* Better question matching.
+* GUI version using Java Swing.
+* Database storage.
+* AI/NLP support.
 
-## Author
+## Author.
 
-Hasth
+"Hasth"
 
 A small Java project created for practicing Core Java concepts such as file handling, collections, and object-oriented programming.
