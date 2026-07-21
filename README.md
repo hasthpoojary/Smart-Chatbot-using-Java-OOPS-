@@ -69,11 +69,11 @@ Answer: Java is a programming language.
 
 ## Concepts Used.
 
-* Java.
-* OOP (Object-Oriented Programming).
-* HashMap.
-* File Handling.
-* Collections Framework.
+* Java
+* OOP (Object-Oriented Programming)
+* HashMap
+* File Handling
+* Collections Framework
 
 ## Future Improvements.
 
