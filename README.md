@@ -77,10 +77,10 @@ Answer: Java is a programming language.
 
 ## Future Improvements.
 
-* Better question matching.
-* GUI version using Java Swing.
-* Database storage.
-* AI/NLP support.
+* Better question matching
+* GUI version using Java Swing
+* Database storage
+* AI/NLP support
 
 ## Author.
 
